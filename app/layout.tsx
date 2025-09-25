@@ -8,10 +8,10 @@ import Plasma from "@/components/plasma"
 const inter = Inter({ subsets: ["latin"], display: "swap" })
 
 export const metadata: Metadata = {
-  title: "Skitbit | 3D Animation Made Simple, Reliable & Scalable",
+  title: "IntelX | In our Universe, everything is possible!",
   description:
-    "From product launches to full-scale campaigns, Skitbit delivers 3D animation that's fast, consistent, and built to wow your audience.",
-  generator: "v0.app",
+    "From product launches to full-scale campaigns, IntelX delivers award winning products, create from groundup. we deliver fast, consistent, and built to wow your audience.",
+  generator: "DiabloNova",
   other: {
     "preload-font": "/fonts/Inter.woff2",
   },
